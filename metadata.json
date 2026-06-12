@@ -1,0 +1,8 @@
+{
+  "name": "ReneWise",
+  "description": "Smart subscription tracking, secure manual registration, and AI-powered recommendations with privacy first.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
