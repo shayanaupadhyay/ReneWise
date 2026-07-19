@@ -136,9 +136,9 @@ This project demonstrates end-to-end product thinking—from identifying the use
 
 MBA Marketing | AI Product Management
 
-LinkedIn: *(Add your LinkedIn URL here)*
+LinkedIn: www.linkedin.com/in/shayana-sharma-36063a341
 
-Portfolio: *(Add your Portfolio URL here)*
+Portfolio: https://ubiquitous-bedbug-bb4.notion.site/Portfolio-bfd263256a48837295330142b53c4c86?source=copy_link
 
 ---
 
